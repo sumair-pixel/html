@@ -1,0 +1,18 @@
+.first-div {
+    width: 500px;
+    height: 50px;
+    background-color: pink;
+    border-width: 3px;
+    border-color: light lightblue;
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+.normal-para {
+    color: red;
+}
+
+#fav-para {
+    color: rgb(255, 10, 5);
+}
